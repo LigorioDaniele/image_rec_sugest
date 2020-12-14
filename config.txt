@@ -1,0 +1,4 @@
+[Ambiente_test]
+folder_riferimenti= C:\Users\Proprietario\Desktop\image_rec_sugest\input
+folder_suggeriti= C:\Users\Proprietario\Desktop\image_rec_sugest\suggeriti
+process_this_frame= True
